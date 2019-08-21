@@ -12,7 +12,7 @@ topics:
     content:
     - level: 1
       criteria: 
-        - "Tem um conhecimento básico das oportunidades e desafios do mercado em que atua"
+        - "Tem um conhecimento básico das oportunidades e desafios do mercado em que atu"
         - "Compreende o modelo de monetização da empresa"
         - "Demonstra interesse em aprender mais sobre o negócio, buscando aprendizado constante com o Product Manager"
     - level: 2
